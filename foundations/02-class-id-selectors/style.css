@@ -1,0 +1,20 @@
+.number {
+    font-size: 20px;
+    background-color: palevioletred;
+    color: black;
+}
+
+.adjust-font-size {
+    font-size: 24pt;
+}
+
+#two {
+    background-color: white;
+    color: blue;
+    font-size: 30pt;
+}
+
+#four {
+    background-color: greenyellow;
+    font-weight: bold;
+}
